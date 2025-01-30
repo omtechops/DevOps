@@ -1,3 +1,4 @@
 this is my bug-fix cde
 
 this is new file
+next commit is final
